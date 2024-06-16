@@ -1,0 +1,19 @@
+FullStackApp/
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── fullstackapp/
+│   │   │   │               ├── Application.java
+│   │   │   │               ├── WebController.java
+│   │   │   │               ├── User.java
+│   │   │   │               └── UserRepository.java
+│   │   │   ├── resources/
+│   │   │       └── application.properties
+│   └── pom.xml
+└── frontend/
+    ├── index.html
+    ├── styles.css
+    └── script.js
